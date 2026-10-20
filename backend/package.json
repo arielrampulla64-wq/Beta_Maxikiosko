@@ -1,0 +1,13 @@
+{
+  "name": "maxikiosco-apolo-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "API del sistema Maxikiosco Apolo (Node.js + SQLite)",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test test/api.test.js"
+  }
+}

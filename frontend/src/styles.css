@@ -1,0 +1,6 @@
+body { background: #f4f6f9; }
+.login-card { max-width: 420px; }
+.tabla-scroll { max-height: 55vh; overflow: auto; }
+.modal-backdrop-custom { background: rgba(0, 0, 0, .5); overflow-y: auto; }
+.cursor-pointer { cursor: pointer; }
+.producto-item:hover { background: #eef3ff; }
